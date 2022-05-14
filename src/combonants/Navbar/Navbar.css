@@ -1,0 +1,4 @@
+.nav-link {
+    cursor: pointer;text-transform: capitalize;
+    font-weight: bold;
+}
